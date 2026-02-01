@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "app1",
+      "name": "template",
       "dependencies": {
         "@base-ui/react": "^1.1.0",
         "@tailwindcss/vite": "^4.1.18",
